@@ -1,5 +1,5 @@
 def display_board
-board = [" "," "," ","X"," "," "," "," "," "]
+board = [" "," "," ","X","X","X"," "," "," "]
   puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
