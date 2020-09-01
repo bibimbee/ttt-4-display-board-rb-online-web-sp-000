@@ -6,4 +6,3 @@ puts "   |X|   "
 puts "-----------"
 puts "   |   |   "
 end
-display_board
